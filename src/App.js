@@ -8,7 +8,6 @@ import appmaker from "./Images/Appmaker.png";
 import notice from "./Images/Hiring_Notice.jpg";
 import working from "./Images/career.png";
 import team from "./Images/team.jpg";
-import { Carousel } from "react-responsive-carousel";
 import { useState, useEffect } from "react";
 
 function App() {
